@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\projects\\bmc\\bmcgame\\source\\bmcgame\\bmcgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\bmc\\bmcgame\\intermediate\\build\\win64\\bmcgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\projects\\bmc\\bmcgame\\intermediate\\build\\win64\\unrealeditor\\development\\bmcgame\\definitions.bmcgame.h",
+            "e:\\projects\\bmc\\bmcgame\\source\\bmcgame\\bmcgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

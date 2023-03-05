@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Projects\\BMC\\BMCGame\\Source\\BMCGame\\BMCGame.Build.cs",
+		"E:\\Projects\\BMC\\BMCGame\\Source\\BMCGame.Target.cs",
+		"E:\\Projects\\BMC\\BMCGame\\Source\\BMCGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

@@ -1,0 +1,29 @@
+[33mcommit 37d2a05ed785d96e77a22968e2535776d3fd1e3f[m[33m ([m[1;36mHEAD -> [m[1;32mtestBranch[m[33m)[m
+Author: inhye <dlstjswlw@gmail.com>
+Date:   Sun Mar 5 22:46:52 2023 +0900
+
+    프로젝트 생성 및 더미 씬 생성
+
+[33mcommit 4723f1560032e5424cd742c0dce0881b35e894fa[m[33m ([m[1;31morigin/testBranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: JangInhye <110326213+JangInhye@users.noreply.github.com>
+Date:   Sun Mar 5 19:07:56 2023 +0900
+
+    Delete dummy
+
+[33mcommit 2f3c717f47ccfc981702062ebc1bb55003aded28[m
+Author: JangInhye <110326213+JangInhye@users.noreply.github.com>
+Date:   Sun Mar 5 19:06:09 2023 +0900
+
+    Create dummy
+
+[33mcommit cfc249bf5f9174d0a8a4b6e1d3b970addc1390c3[m
+Author: JangInhye <110326213+JangInhye@users.noreply.github.com>
+Date:   Sun Mar 5 18:57:50 2023 +0900
+
+    Create README.md
+
+[33mcommit 732905752a0ffa492c3d67d4dec221e7252b4908[m
+Author: JangInhye <110326213+JangInhye@users.noreply.github.com>
+Date:   Sun Mar 5 18:34:34 2023 +0900
+
+    Initial commit

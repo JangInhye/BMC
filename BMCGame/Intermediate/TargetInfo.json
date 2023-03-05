@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BMCGame",
+			"Path": "E:\\Projects\\BMC\\BMCGame\\Source\\BMCGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BMCGameEditor",
+			"Path": "E:\\Projects\\BMC\\BMCGame\\Source\\BMCGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

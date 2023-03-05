@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BMCGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGame.init.gen.cpp.obj"
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.gen.cpp.obj"
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGame.cpp.obj"
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.cpp.obj"
+"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\Default.rc2.res"
+/OUT:"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\UnrealEditor-BMCGame.lib"
