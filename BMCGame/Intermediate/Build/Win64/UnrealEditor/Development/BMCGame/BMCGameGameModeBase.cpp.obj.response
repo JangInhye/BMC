@@ -1,18 +1,16 @@
-E:\Projects\BMC\BMCGame\Source\BMCGame\BMCGameGameModeBase.cpp
+C:\projects\BMC\BMCGame\Source\BMCGame\BMCGameGameModeBase.cpp
 /I .
-/I E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Inc\BMCGame\UHT
-/I E:\Projects\BMC\BMCGame\Source
-/I Runtime
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
+/I Runtime
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -271,6 +269,8 @@ E:\Projects\BMC\BMCGame\Source\BMCGame\BMCGameGameModeBase.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
+/I C:\projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Inc\BMCGame\UHT
+/I C:\projects\BMC\BMCGame\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -279,12 +279,12 @@ E:\Projects\BMC\BMCGame\Source\BMCGame\BMCGameGameModeBase.cpp
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\Definitions.BMCGame.h"
-/Yu"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.cpp.obj"
-/sourceDependencies E:\Projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.cpp.dep.json
+/FI"C:\projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\Definitions.BMCGame.h"
+/Yu"C:\projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\projects\BMC\BMCGame\Intermediate\Build\Win64\BMCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.cpp.obj"
+/sourceDependencies C:\projects\BMC\BMCGame\Intermediate\Build\Win64\UnrealEditor\Development\BMCGame\BMCGameGameModeBase.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
